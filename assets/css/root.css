@@ -14,7 +14,7 @@
     --fs-10xl: 44px;
 
 
-
+    
     --fc-black: #020D15;
     --fc-white: white;
     --fc-light-grey: #B1B5B9;
@@ -27,6 +27,7 @@
     --fc-light-red: #F156421A;
     --fc-light-black: #181717;
     --fc-white-light: #FBFDFF;
+    
     --fc-slate-gray: #B1B7BD;
     --fc-grey: #B1BAC4;
     --fc-normal-blue: #0389FF1F;
@@ -37,6 +38,9 @@
     --fc-unique-grey: #B1B6BB;
     --fc-light-grey-2: #B0B5B9;
 }
+
+
+
 
 .fw-sm {
     font-weight: var(--fw-sm) !important;
